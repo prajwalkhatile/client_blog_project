@@ -1,0 +1,45 @@
+.header h1{
+    font-size: 3.5rem;
+
+}
+
+.container-about{
+
+    margin-top: 3rem;
+    height: auto;
+}
+
+.main_cont{
+    height: 60vh;
+    display: flex;
+}
+
+.left{
+    width: 40%;
+    background-image: url('./about.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.right{
+    padding: 2rem 2rem;
+    height: 60% ;
+    width: 50%;
+    justify-content: center;
+
+
+}
+
+.p1{
+    padding: 1rem;
+}
+
+.p2{
+    padding: 1rem;
+}
+
+.p3{
+    padding: 1rem;
+}
+
